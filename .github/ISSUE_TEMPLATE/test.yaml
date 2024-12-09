@@ -57,8 +57,11 @@ body:
     validations:
       required: true
 
-  - type: markdown
+  - type: textarea
+    id: rollout
     attributes:
+      label: Rollout tracking
+      description: The content below is used for rollout tracking and should not be modified when issue is created.
       value: |
         Rollout tracking
 
