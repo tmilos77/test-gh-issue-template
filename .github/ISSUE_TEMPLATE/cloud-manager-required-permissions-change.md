@@ -1,5 +1,5 @@
 ---
-name: Cloud Manager required permissions change
+name: Test
 about: File a change in the Cloud Manager required permissions
 title: "[PermissionsChange]: "
 labels: ''
